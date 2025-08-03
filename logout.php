@@ -1,5 +1,5 @@
 <?php
-// SPD Hub V2 - Logout Functionality
+// SPD Hub V2 - Logout Script
 // logout.php
 
 session_start();
